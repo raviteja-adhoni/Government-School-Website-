@@ -1,1 +1,1 @@
-# This is a government school showcasing details about the school
+# This is a government school website showcasing details about the school
